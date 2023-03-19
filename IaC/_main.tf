@@ -1,7 +1,7 @@
 provider "aws" {
   region  = "${var.aws-region}"
   access_key = "XXXXXXXXXXXX"
-  secret_key = "XXXXXXXXXXX/RuqTOC6UsG"
+  secret_key = "XXXXXXXXXXX/XXXXXX"
 }
 
 resource "aws_instance" "instance" {
