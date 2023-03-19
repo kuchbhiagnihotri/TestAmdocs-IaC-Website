@@ -5,7 +5,7 @@ variable "aws-region" {
 
 variable "aws-profile" {
   description = "The name of the AWS shared credentials account."
-  default     = "253679625821"
+  default     = "XXXXXX"
 }
 
 variable "instance-ami" {
